@@ -4,8 +4,8 @@
 
 ***
 
-🍃 Demo For You - [Open Here](https://avipatilpro.github.io/CC_Gen/)
+🍃 Demo For You - [Open Here](https://ccgen.apkmodded.click)
 
 ---
 
-<h4 align='center'> © 2021 Avishkar Patil 😎 <h4>
+<h4 align='center'> © 2024 APKM original repo based on Avishkar Patil 😎 <h4>
