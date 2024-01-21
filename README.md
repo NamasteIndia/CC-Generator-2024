@@ -8,4 +8,4 @@
 
 ---
 
-<h4 align='center'> © 2024 APKM original repo based on Avishkar Patil 😎 <h4>
+<h4 align='center'> © 2024 APKM based on Avishkar Patil 😎 <h4>
